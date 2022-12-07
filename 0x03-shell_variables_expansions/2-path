@@ -1,2 +1,2 @@
 #!/bin/bash
-mkdir -p /action /action
+mkdir -p /action /action/action
